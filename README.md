@@ -108,3 +108,7 @@ Adding Data to Google Maps
 
 Open google maps and add the newly created .kml file which was formed after running the python script .
 Click on Import and then select the .kml file on your computer, once the file is uploaded you should see the network traffic being dislayed on the map.
+
+
+
+For more clear instructions go to - https://medium.com/vinsloev-academy/python-cybersecurity-network-tracking-using-wireshark-and-google-maps-2adf3e497a93
