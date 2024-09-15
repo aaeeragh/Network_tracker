@@ -13,9 +13,14 @@ Wireshark
 Besides the GeoLiteCity database we also be needing the Wireshark application to be able to capture network traffic in our device. We will study and monitor the network hops of our device and we will collect the hoping infos through wireshark . 
 - just go into wireshark , click your network connection
 - an instance of hops will start .
+- <img width="1434" alt="Screenshot 2024-09-16 at 12 07 43 AM" src="https://github.com/user-attachments/assets/1a948941-2516-4882-b13f-62e5cd78add2">
 - close in withing 2 seconds of enabling it as we do not have to analyze all the hops . Just few will be fine
 - 
 - save the file as shown below
+- <img width="1401" alt="Screenshot 2024-09-16 at 12 08 04 AM" src="https://github.com/user-attachments/assets/77d2bd33-6925-4c36-bdc8-c9c2b7dea12c">
+
+<img width="1004" alt="Screenshot 2024-09-16 at 12 08 18 AM" src="https://github.com/user-attachments/assets/1623e5cc-fac1-4676-acf7-8a6acccc381c">
+
 
 
 ###Step-3###
@@ -108,6 +113,7 @@ Adding Data to Google Maps
 
 Open google maps and add the newly created .kml file which was formed after running the python script .
 Click on Import and then select the .kml file on your computer, once the file is uploaded you should see the network traffic being dislayed on the map.
+![hops2](https://github.com/user-attachments/assets/cd2fd778-d595-445c-aa45-36ffed963ee3)
 
 
 
